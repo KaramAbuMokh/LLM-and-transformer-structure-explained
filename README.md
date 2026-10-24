@@ -75,6 +75,7 @@ Python packages: `PyPDF2`, `tiktoken`, `openai`, `backoff` (installed in the fir
 ├── fine_tuning_GPT2.ipynb                  # the whole pipeline, books to fine-tuned model
 ├── docs/
 │   └── training-loss-game-of-thrones.png   # loss plot shown above
+├── AGENTS.md                               # short notes on what each file is
 └── README.md
 ```
 
